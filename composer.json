@@ -1,5 +1,5 @@
 {
-    "name": "soarecostin/file-vault",
+    "name": "formation-media/file-vault",
     "description": "",
     "keywords": [
         "laravel", "encrypt", "decrypt", "encryption", "decryption",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "illuminate/support": "5.8.* || 6.*.* || ^7.0 || ^8.0"
+        "illuminate/support": "5.8.* || 6.*.* || ^7.0 || ^8.0 || ^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0|^6.0",
